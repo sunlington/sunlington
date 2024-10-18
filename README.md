@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sunlington
-I'm currently learning to code together with a few friends. We are completely new to all of this so don't expect too much haha!
+- 👋 Hi, I’m @MephistO
+I'm a Computer Science student, and this is where I dump all of my project :)
 
